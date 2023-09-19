@@ -1,0 +1,9 @@
+h1{
+	margin: 10px 0;
+	text-align: center;
+}
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	background-color: olive;
+}
